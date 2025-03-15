@@ -1,5 +1,5 @@
 # CS320
 
-Journal Entries:
-https://github.com/ketsp8ce/CS320/blob/main/Module_1_Journal.md
-https://github.com/ketsp8ce/CS320/blob/main/Module_2_Journal.md
+## Journal Entries
+- [Module 1 Journal](Module_1_Journal.md)
+- [Module 2 Journal](Module_2_Journal.md)
